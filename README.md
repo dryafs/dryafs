@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @dryafs(Andrii)
-- 👀 I’m interested in Front-end developer
-- 🌱 I’m currently learning Computer Science(js, java)
-- 📫 How to reach me kudlajandrej412@gmail.com
-- :)
+## Stack:
+- JS(React.js)
+- Redux
+- Java(still learning)
+
+## To contact me: kudlajandrej412@gmail.com
