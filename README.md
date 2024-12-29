@@ -3,4 +3,4 @@
 - Redux
 - Java(still learning)
 
-## To contact me: kudlajandrej412@gmail.com
+# To contact me: kudlajandrej412@gmail.com
